@@ -9,7 +9,7 @@ peta dan penggunaan QGIS.
 - Data Pemetaan
 - Tutorial QGIS
 - Contoh Peta
-- Permasalahan Mahasiswa
+- Studi Kasus
 
 Repository ini menjadi prototipe awal untuk menguji kebutuhan
 mahasiswa terhadap sumber data, tutorial, dan pemecahan masalah
